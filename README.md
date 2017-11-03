@@ -23,7 +23,7 @@ Before starting the training be sure to:
   - Pip3 install scipy - Similar to Numpy, it gives you access to key mathematical functions
   - Pip3 install matplotlib - This will be used for plotting
 - Finally, in order to start your developing environment, type Jupyter Notebook in your terminal. This should open a tab in your browser
-Alternatively, you can also install a package manager such as Anaconda (https://www.anaconda.com/download/#macos) to install the different libraries without using terminal.
+- Alternatively, you can also install a package manager such as Anaconda (https://www.anaconda.com/download/#macos) to install the different libraries without using terminal.
 
 ## Agenda
 The training is split in 5 courses. 
