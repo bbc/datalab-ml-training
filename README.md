@@ -1,6 +1,6 @@
 # datalab-ml-training
 
-## XX
+## Objectives
 The goals of this training is to:
 - Get you excited about Data Science
 - Give a quick introduction for some of the Python's libraries available: Pandas and Scikit-learn
@@ -25,6 +25,6 @@ Before starting the training be sure to:
 - Finally, in order to start your developing environment, type Jupyter Notebook in your terminal. This should open a tab in your browser
 Alternatively, you can also install a package manager such as Anaconda (https://www.anaconda.com/download/#macos) to install the different libraries without using terminal.
 
-## Summary of what we will do
+## Agenda
 The training is split in 5 courses. 
 ...
