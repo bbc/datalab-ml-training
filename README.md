@@ -27,5 +27,11 @@ Before starting the training be sure to:
 - Finally, in order to start your developing environment, type Jupyter Notebook in your terminal. This should open a tab in your browser
 
 ## Agenda
-The training is split in 5 courses. 
-...
+The training is split in 4 courses:
+- Course One: Data Exploration
+- Course Two: Data Preparation
+- Course Three: Build a Classifier
+- Course Four: Build a Regressor
+
+This training is still WIP. Please give us any feedback to help us improve it!
+- Datalab team
