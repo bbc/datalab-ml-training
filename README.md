@@ -34,4 +34,3 @@ The training is split in 4 courses:
 - Course Four: Build a Regressor
 
 This training is still WIP. Please give us any feedback to help us improve it!
-- Datalab team
