@@ -28,11 +28,11 @@ Before starting the training be sure to:
 
 ### Using Docker
 
-Jupyter also provide a Docker image that runs everything you need for these exercises. If you have Docker, this command creates a passwordless instance of Jupyter at http://localhost/, mapped to your current working directory:
+If you are familiar with Docker, you can use the Jupyter [`datascience-notebook`](https://hub.docker.com/r/jupyter/datascience-notebook/) image to spin up everything you need for the course. As a starting point, the following command creates a passwordless instance of Jupyter at http://localhost:8888/, mapped to your current working directory:
 
 ```bash
 docker run \
-    -d --rm -p 127.0.0.1:80:8888 \
+    -d --rm -p 127.0.0.1:8888:8888 \
     --name=datascience-notebook \
     --mount type=bind,source="$(pwd)",target=/home/jovyan \
     jupyter/datascience-notebook \
