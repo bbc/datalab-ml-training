@@ -28,7 +28,7 @@ Before starting the training be sure to:
 
 ### Using Docker
 
-Jupyter also provide a Docker image that runs everything you need for these exercises. If you have Docker, this command creates an instance of Jupyter at http://localhost/ with password `datalab`, mapped to your current working directory:
+Jupyter also provide a Docker image that runs everything you need for these exercises. If you have Docker, this command creates a passwordless instance of Jupyter at http://localhost/, mapped to your current working directory:
 
 ```bash
 docker run \
