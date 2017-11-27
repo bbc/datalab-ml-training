@@ -26,6 +26,19 @@ Before starting the training be sure to:
   - Alternatively, you can also install Anaconda (https://www.anaconda.com/download/#macos) that aims to simplify package management.
 - Finally, in order to start your developing environment, type Jupyter Notebook in your terminal. This should open a tab in your browser
 
+### Using Docker
+
+Jupyter also provide a Docker image that runs everything you need for these exercises. If you have Docker, this command creates an instance of Jupyter at http://localhost/ with password `datalab`, mapped to your current working directory:
+
+```bash
+docker run \
+    -d --rm -p 127.0.0.1:80:8888 \
+    --name=datascience-notebook \
+    --mount type=bind,source="$(pwd)",target=/home/jovyan \
+    jupyter/datascience-notebook \
+    start-notebook.sh --NotebookApp.token=''
+```
+
 ## Agenda
 The training is split in 4 courses:
 - Course One: Data Exploration
