@@ -57,6 +57,6 @@ The training is split into 4 courses:
 - [Three: Build a Classifier](iPlayerForecast_course3.ipynb)
 - [Four: Build a Regressor](iPlayerForecast_course4.ipynb)
 
-This training is still work-in-progress. Please send us any feedback to `datalab@bbc.co.uk` to help us improve it!
+This training is still work-in-progress. Please send us any feedback to `datalab @ bbc.co.uk` to help us improve it!
 
 **And if you found this training easy and had fun doing it, why not join us? https://findouthow.datalab.rocks/** 
