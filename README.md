@@ -1,4 +1,4 @@
-# Datalab ML Training
+# BBC Datalab ML Training
 
 ## Objectives
 The goals of this training is to:
