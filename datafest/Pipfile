@@ -7,15 +7,15 @@ verify_ssl = true
 pytest = "*"
 
 [packages]
-jupyter = "*"
-notebook = "*"
 gensim = "*"
+seaborn = "*"
+sklearn = "*"
+notebook = "*"
+jupyter = "*"
 nltk = "*"
 numpy = "*"
 matplotlib = "*"
 pandas = "*"
-seaborn = "*"
-sklearn = "*"
 chardet = "*"
 
 [requires]
