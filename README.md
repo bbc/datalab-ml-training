@@ -28,7 +28,7 @@ This training requires a number of libraries which are installed, for example, w
 ### Jupyter with Virtualenv
 This training also uses Python 3 and a number of Python libraries, so before starting the training you will need to:
 - Install Python 3 following the [Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Download) or you might find [Installing Python 3 on Mac OS X](http://docs.python-guide.org/en/latest/starting/install3/osx/) useful if you use Mac OS X.
-- Install [Virtualenv](https://virtualenv.pypa.io) using the [Installation](https://virtualenv.pypa.io/en/stable/installation/) documentation.
+- Install [Virtualenv](https://virtualenv.pypa.io) using the [Installation](https://virtualenv.pypa.io/en/latest/installation.html) documentation.
 - In your project directory create a new virtual environment by running `virtualenv -p python3.6 env`
 - Enable your virtual environment by running `source env/bin/activate`
 - Install the [dependencies](#dependencies) by running `pip3 install -r requirements.txt`
